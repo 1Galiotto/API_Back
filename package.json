@@ -1,7 +1,7 @@
 {
   "name": "sistema_compras",
   "version": "0.0.1",
-  "description": "Sistema de compras WEB",
+  "description": "Sistema de compras",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,12 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/jpfagund/sistema_compras_web.git"
   },
-  "author": "João Paulo Fagundes",
+  "author": "João Vitor Galiotto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpfagund/sistema_compras_web/issues"
+    "url": "https://github.com/1Galiotto/API_Back"
   },
-  "homepage": "https://github.com/jpfagund/sistema_compras_web#readme",
+  "homepage": "https://github.com/1Galiotto/API_Back",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.0.1",
